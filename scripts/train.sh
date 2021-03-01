@@ -1,0 +1,1 @@
+python exp.py --name temp --att --prop --final_loss --count_loss --seg_loss --seg_w 100 --net vgg --soft --seg --model vgg --output_cn 2 --train_json train.json --val_json val.json --test_json test.json --display_freq 100 --lr 0.00001 --downsample 8 --dmap_type fix16 --input_cn 3 --seg_lr 0.00001 --train_counter --hourglass_iter 3 --weight 10 --seg_gt_act multi

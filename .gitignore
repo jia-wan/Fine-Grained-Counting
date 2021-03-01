@@ -1,0 +1,9 @@
+*.pyc
+*.out
+/logs/*
+.ipynb_checkpoints
+*.pdf
+*.png
+*.npy
+./checkpoints/*
+*.condor

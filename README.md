@@ -3,11 +3,11 @@
 ## Data preparation
 The dataset can be downloaded from [GoogleDrive](https://drive.google.com/file/d/1jMmtGywb4LuVpcLhIt_54BFrB-faYAW1/view?usp=sharing).
 
-### Train, val, and test split are stored in Fine-Grained-dataset/<Application>/annotations/*.json
+Train, val, and test split are stored in Fine-Grained-dataset/Application/annotations/*.json
 
-### Point annotations are stored in Fine-Grained-Dataset/<Application>/annotations/annotations.json
+Point annotations are stored in Fine-Grained-Dataset/Application/annotations/annotations.json
 
-### Density map should be generated and named according to the data loader.
+Density map should be generated and named according to the data loader.
 
 ## Train and Test
 Training and testing examples can be found in scripts folder.
